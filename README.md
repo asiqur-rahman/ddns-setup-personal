@@ -25,5 +25,12 @@ flutter emulators
 
 flutter emulators --launch flutter_emulator
 
+################################################################
+
+JAVA_HOME  -> D:\Program Files\Java\jdk-21
+
+Setup : Android SDK Command-line Tools
+
+sdkmanager "platform-tools" "platforms;android-30" "tools" "build-tools;30.0.3"
 
 
